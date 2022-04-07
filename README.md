@@ -1,2 +1,2 @@
-# Smaple_CICD
+# Sample_CICD
 Sample code
